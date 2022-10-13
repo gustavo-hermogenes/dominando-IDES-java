@@ -89,6 +89,9 @@ Para atalhos no Intellij:
 - ctrl + k = faz o commit de um repositório
 - Durante a criação de um construtor, o Intellij indica os atributos, o que o Eclipse não faz.
 - alt + enter = durante a criação de uma variável, caso a variável não tenha sido declarada, isto é feito
+- ctrl + F4 = fecha a aba atual
+- ctrl + n = para procurar uma classe/pacote
+- ctrl + b = para entrar em uma classe selecionada
 
 ### Commit e push pela IDE
 
@@ -100,6 +103,18 @@ Para atalhos no Intellij:
 ### Debug
 
 O Debug no Intellij segue a mesma lógica descrita anteriormente para o Eclipse, mudando apenas os atalhos dos comandos de análise.
+
+### Plugins
+
+File > settings (ctrl + alt + s) > plugins
+
+
+
+## IDE VSCode (Visual Code Studio)
+
+Outra boa opção de IDE. É uma IDE mais simples, desenvolvida para JavaScript, porém uma boa opção para várias linguagens, incluindo Java.
+
+Para rodar códigos Java no VSCode, é necessário baixar uma extensão Java, a "Java Extension Pack".
 
 
 
