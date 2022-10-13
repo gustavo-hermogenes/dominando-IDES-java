@@ -1,5 +1,5 @@
 # dominando-IDES-java
-Repositório com material produzido por mim sobre o curso "Dominando IDEs JAVA" da DIO, para acompanhar melhor as aulas e aprender comandos.
+Repositório com meu material de acompanhamento sobre o curso "Dominando IDEs JAVA" da DIO, para acompanhar melhor as aulas e aprender comandos.
 
 O arquivo "notas_de_aula_curso_dominando_IDEs_java" contém notas de aula e anotações próprias sobre o curso, comandos e curiosidades.
 
