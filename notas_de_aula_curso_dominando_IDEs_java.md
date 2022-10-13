@@ -97,4 +97,16 @@ Para atalhos no Intellij:
 - Fazer o Push: "VCS" > "push". Ou utilizar o atalho "ctrl + shift + k". Seguir os passos necessários.
 - durant o push, selecionar a opção "Push tags: All"
 
+### Debug
+
+O Debug no Intellij segue a mesma lógica descrita anteriormente para o Eclipse, mudando apenas os atalhos dos comandos de análise.
+
+
+
+
+
+##### :writing_hand: Escrito por: Gustavo Hermógenes
+
+
+
 ###### Nota: Durante os estudos, percebi que o termo correto para fazer referência ao ato de organizar o código com espaços de parágrafo determinados, usualmente referido como *identação*, é *endentação*.
