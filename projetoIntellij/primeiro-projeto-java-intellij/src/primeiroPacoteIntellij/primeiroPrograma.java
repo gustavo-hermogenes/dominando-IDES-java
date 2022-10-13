@@ -1,5 +1,6 @@
 package primeiroPacoteIntellij;
 
+
 import primeiroPacoteIntellij.model.Gato;
 
 public class primeiroPrograma {

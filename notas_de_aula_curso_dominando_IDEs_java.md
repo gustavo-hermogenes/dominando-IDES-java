@@ -57,7 +57,7 @@ Encontrar e corrigir erros que aparecem no código/programa
 
 
 
-## IDE Intelilij
+## IDE Intellij
 
 Creat project from template: inicia uma aplicação simples Java com o método main (public static void main)
 
@@ -71,9 +71,10 @@ Para atalhos no Intellij:
 - selecionar *src* e utilizar o atalho "alt + insert" para selecionar então a criação dos pacotes e classes
 - no Intellij não é necessário "ctrl + space", pois os comandos são sugeridos automaticamente
 - "sout" é o equivalente do "sysout" para imprimir
+- "psvd" para criar o "public static void main", ou apenas digitar "main" que aparecerá a criação do método para dar enter e criar automaticamente
 - na opção "add configuration" é possível ajustar as configurações para rodar o programa
 - ctrl + shift + F10 = roda o programa pela primeira vez. Após isto, basta o "shift + F10" para rodar novamente
-- Alt + insert = para procurar os geradores automáticos dde construtores, getters and setters, equals() and hashCode(), toString() ...
+- Alt + insert = para procurar os geradores automáticos de construtores, getters and setters, equals() and hashCode(), toString() ...
 - Selecionando um bloco e dando o comando "ctrl + shift + /", o bloco é comentado (/\*bloco\*/)
 - ctrl + / = comenta o bloco selecionado linha por linha
 - // = comentário na linha, ou por /* "comentário" */
@@ -87,7 +88,7 @@ Para atalhos no Intellij:
 - ctrl + shift + seta para cima/baixo = reposiciona para cima/baixo o bloco selecionado
 - ctrl + k = faz o commit de um repositório
 - Durante a criação de um construtor, o Intellij indica os atributos, o que o Eclipse não faz.
-- alt + enter = durante a criação do de uma variável, caso a variável não tenha sido declarada, isto é feito
+- alt + enter = durante a criação de uma variável, caso a variável não tenha sido declarada, isto é feito
 
 ### Commit e push pela IDE
 
